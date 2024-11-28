@@ -1,0 +1,9 @@
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\bin\Debug\lab_08.exe
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\bin\Debug\lab_08.pdb
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.csproj.AssemblyReference.cache
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.Form1.resources
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.Properties.Resources.resources
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.csproj.GenerateResource.cache
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.csproj.CoreCompileInputs.cache
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.exe
+C:\Users\Pakistan Traders\source\repos\lab_08\lab_08\obj\Debug\lab_08.pdb
